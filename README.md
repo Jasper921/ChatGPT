@@ -1,0 +1,2 @@
+# ChatGPT
+Remove ChatGPT resctrictions
