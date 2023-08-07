@@ -1,2 +1,1 @@
-# ChatGPT
-Remove ChatGPT resctrictions
+# Jasper
